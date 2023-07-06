@@ -1,0 +1,7 @@
+HTML es un lenguaje de marcado que nos permite indicar la estructura de nuestro documento mediante etiquetas. 
+
+Las etiquetas son textos encerrados entre los signos de mayor y menor (< >). Cuando un navegador se encuentra un texto así encerrado, entenderá que dentro de los símbolos menor y mayor lo que se indica es el inicio de un elemento. 
+
+El inicio del elemento se marca con el nombre del elemento entre los símbolos < y > (por ejemplo, <h1>).
+
+El cierre de una etiqueta se marca poniendo el símbolo /, seguido del nombre del elemento estamos cerrando (por ejemplo, </h1>).
