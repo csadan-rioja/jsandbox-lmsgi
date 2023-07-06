@@ -1,3 +1,4 @@
-Mostrar el texto "Párrafo escrito en español" indicando al navegador que es un parrafo escrito en español. 
+1. Define un elemento de cabecera de nivel 1 que contenga el texto "Hola mundo".
+2. Define un elemento de parrafo que contenga el texto "Párrafo con texto importante" y que la parte "texto importante" sea un elemento de gran importancia para el navegador.
 
-Nota: la etiqueta que indica que el texto es un parrafo es <p>. Para indicar que el texto del parrafo está en español se utiliza el atributo lang con el valor "es". 
+Nota: para indicar que un texto es de gran importancia se utiliza la etiqueta <strong>
