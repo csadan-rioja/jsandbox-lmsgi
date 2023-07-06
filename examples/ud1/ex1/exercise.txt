@@ -1,10 +1,3 @@
-4- Recoge el alto y el ancho de una tabla mediante prompt. Escribe en el body (document.write()) una tabla de esas medidas, que muestre los números desde el 1 hasta el número de celdas.
+Mostrar un texto indicando al navegador que se trata de una cabecera de nivel 1.
 
-	Por ejemplo, para las entradas: alto 2, ancho 5.
-
-	El programa debe escribir en la página:
-
-	1	2	3	4	5
-	6	7	8	9	10
-
-Ayuda: document.write("<table>");
+Nota: la etiqueta que indica que el texto es cabecera nivel 1 es <h1>
