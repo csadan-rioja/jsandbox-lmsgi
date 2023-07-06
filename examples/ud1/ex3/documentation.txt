@@ -1,0 +1,3 @@
+Algunas etiquetas tienen atributos. Los atributos son propiedades de cada elemento a las que podemos asignar un valor, de modo que dicho valor varía el comportamiento del elemento. La forma de utilizar atributos es:
+
+<elemento nombreDeAtributo1=”valor1” nombreDeAtributo2=”valor1” … > </elemento>
