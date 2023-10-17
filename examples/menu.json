@@ -16,11 +16,19 @@
             },
             {
               "numero": "3",
-              "info": "HTML 1. Elementos"
+              "info": "HTML 1. Estructura 1"
             },
             {
               "numero": "4",
-              "info": "HTML 1. Estructura"
+              "info": "HTML 1. Estructura 2"
+            },
+            {
+              "numero": "5",
+              "info": "HTML 1. Estructura 3"
+            },
+            {
+              "numero": "6",
+              "info": "HTML 1. Metadatos"
             }
           ]
         }

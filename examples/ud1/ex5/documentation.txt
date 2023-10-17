@@ -1,0 +1,22 @@
+La estructura de un documento HTML 5 tiene los siguientes elementos:
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Hello</title>
+  </head>
+  <body>
+    <p>Welcome to this example.</p>
+  </body>
+</html>
+
+
+<!DOCTYPE HTML> Incluir DOCTYPE en un documento garantiza que el navegador haga todo lo posible para seguir las especificaciones de HTML.
+
+<html> Representa la raiz de un documento HTML, su atributo lang indica el lenguaje del documento. (https://html.spec.whatwg.org/multipage/semantics.html#the-html-element)
+
+<head> Incuye una colección de metadatos. (https://html.spec.whatwg.org/multipage/semantics.html#the-head-element)
+
+<body> Representa el contenido del documento (https://html.spec.whatwg.org/multipage/sections.html#the-body-element)
+
+

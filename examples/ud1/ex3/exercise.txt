@@ -1,4 +1,5 @@
 1. Define un elemento de cabecera de nivel 1 que contenga el texto "Hola mundo".
+
 2. Define un elemento de parrafo que contenga el texto "Párrafo con texto importante" y que la parte "texto importante" sea un elemento de gran importancia para el navegador.
 
 Nota: para indicar que un texto es de gran importancia se utiliza la etiqueta <strong>
