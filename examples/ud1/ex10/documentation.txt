@@ -1,0 +1,1 @@
+La etiqueta <hr> define un cambio de tematica en una pagina HTML. Esto se suele representar normalmente con una linea horizontal. 

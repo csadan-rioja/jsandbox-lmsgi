@@ -1,0 +1,1 @@
+HTML define los enlaces a través de la etiqueta <a>. El destino de los enlaces se especifica a través del atributo href. 
