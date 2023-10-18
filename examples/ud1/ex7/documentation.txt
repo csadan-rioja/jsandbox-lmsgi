@@ -1,0 +1,5 @@
+Los parrafos se definen con la etiqueta <p>. El attributo title se mostrará como un tooltip. 
+
+Los parrafos siempre comienzan en una nueva línea, y los navegadores automaticamente añaden un espacio (un margen) antes y después de cada parrafo. 
+
+El navegador automáticamente eliminará espacios estras y lineas al mostrar la pátinga. Utilizando la etiqueta <br> podrás añadir un salto de línea dentro de un parrafo. Aunque no es recomendado utilizar dicha etiqueta. 

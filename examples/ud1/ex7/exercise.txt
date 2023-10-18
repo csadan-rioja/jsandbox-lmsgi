@@ -1,0 +1,6 @@
+Crea un documento HTML con 4 parrafos siguiendo las siguientes características:
+
+1. El primer parrafo tendrá todo el texto (en el documento HTML) en la misma línea
+2. El segundo parrafo tendrá todo el texto (en el documento HTML) en la misma línea pero deberán existir 2 espacios en blanco después del anterior parrafo (dentro del HTML).
+3. El tercer parrafo deberá tener un salto de línea (en el documento HTML) que separe dos frases. Además también tendrá una serie de espacios en blanco entre dos frases (en el docuemnto HTML).
+4. El cuarto parrafo deberá tener un salto de línea dentro del parrafo. Este salto de líena debe mostrarse el la página web (no dentro del documento HTML).    

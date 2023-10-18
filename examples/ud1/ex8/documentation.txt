@@ -1,0 +1,3 @@
+Los parrafos también pueden definirse con la etiqueta <pre>. El texto dentro del elemento se mostrará con la fuente courier (generalmente), y preserva tanto los espacios y los saltos de línea mostrados en el HTML. 
+
+
