@@ -1,0 +1,14 @@
+Existen elementos HTML que modifican la forma de mostrar el texto: 
+
+<b>  Texto en negrita
+<strong>  Texto importante
+<i> Texto en italiza
+<em> Enfatizar texto
+<marca> Texto marcado
+<pequeño> Texto más pequeño
+<del> Texto eliminado
+<ins> Texto insertado
+<sub> Texto del subíndice
+<sup> Texto en superíndice
+
+OJO. Aunque estas etiquetas puedan modificar la forma en que se muestra el texto, no es recomendable utilizarlas con dicha finalidad. El objetivo es marcar el texto de forma semántica, el cambio de formato se hará a través de estilos CSS. 
