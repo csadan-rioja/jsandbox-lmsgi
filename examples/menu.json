@@ -54,6 +54,38 @@
             {
               "numero": "12",
               "info": "HTML 1. Imagenes"
+            },
+            {
+              "numero": "13",
+              "info": "HTML 1. Etiqueta <bdo>"
+            },
+            {
+              "numero": "14",
+              "info": "HTML 1. Etiqueta <abbr>"
+            },
+            {
+              "numero": "15",
+              "info": "HTML 1. Etiqueta <q>"
+            },
+            {
+              "numero": "16",
+              "info": "HTML 1. Etiqueta <address>"
+            },
+            {
+              "numero": "17",
+              "info": "HTML 1. Etiqueta <cite>"
+            },
+            {
+              "numero": "18",
+              "info": "HTML 1. Etiqueta <bdo>" 
+            },
+            {
+              "numero": "19",
+              "info": "HTML 1. Listas no ordenadas "
+            },
+            {
+              "numero": "20",
+              "info": "HTML 1. Listas ordenadas"
             }
           ]
         }
