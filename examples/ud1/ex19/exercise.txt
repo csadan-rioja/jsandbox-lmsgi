@@ -1,0 +1,1 @@
+Crea 4 listas desordenadas, donde los elementos de la lista se marquen como 1) disco, 2) circulo, 3) cuadrado, y 4) sin marca.

@@ -1,0 +1,1 @@
+La etiqueta <bdo> es utilizada para cambiar la dirección del texto. Utilizaremos la propiedad dir para definir la dirección (rtl o ltr). 

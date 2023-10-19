@@ -1,0 +1,1 @@
+La etiqueta <q> define una cita corta. 

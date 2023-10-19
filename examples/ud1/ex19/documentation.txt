@@ -1,0 +1,15 @@
+
+Una lista NO ordenada se crea utilizando la etiqueta <ul>. Los elementos de la lista se declaran con la etiqueta <li>.
+
+Los elementos de la lista estarán marcados con pequeños círculos negros de forma predeterminada.
+
+La propiedad list-style-type dentro del atributo de estilo se utiliza para definir el estilo del marcador del elemento de la lista. Puede tener uno de los siguientes valores:
+desct
+
+disc: establece el marcador de elementos de la lista en una viñeta (predeterminado)
+
+circle: convierte el marcador del elemento de la lista en un círculo
+
+square: establece el marcador del elemento de la lista en un cuadrado
+
+none: los elementos de la lista no se marcarán

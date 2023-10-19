@@ -1,0 +1,1 @@
+Escribe un texto donde la dirección sea de derecha a izquierda. 

@@ -1,0 +1,1 @@
+La etiqueta <abbr> define una abreviación o un acrónimo. 

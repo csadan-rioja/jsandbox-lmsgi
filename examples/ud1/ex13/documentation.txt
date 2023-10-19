@@ -1,0 +1,1 @@
+La etiqueta <blockquote> define una cita de otro origen. El atributo cite es el origen. 
