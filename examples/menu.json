@@ -57,31 +57,31 @@
             },
             {
               "numero": "13",
-              "info": "HTML 1. Etiqueta <bdo>"
+              "info": "HTML 1. Etiqueta bdo"
             },
             {
               "numero": "14",
-              "info": "HTML 1. Etiqueta <abbr>"
+              "info": "HTML 1. Etiqueta abbr"
             },
             {
               "numero": "15",
-              "info": "HTML 1. Etiqueta <q>"
+              "info": "HTML 1. Etiqueta q"
             },
             {
               "numero": "16",
-              "info": "HTML 1. Etiqueta <address>"
+              "info": "HTML 1. Etiqueta address"
             },
             {
               "numero": "17",
-              "info": "HTML 1. Etiqueta <cite>"
+              "info": "HTML 1. Etiqueta cite"
             },
             {
               "numero": "18",
-              "info": "HTML 1. Etiqueta <bdo>" 
+              "info": "HTML 1. Etiqueta bdo" 
             },
             {
               "numero": "19",
-              "info": "HTML 1. Listas no ordenadas "
+              "info": "HTML 1. Listas no ordenadas"
             },
             {
               "numero": "20",
@@ -89,7 +89,11 @@
             },
             {
               "numero": "21",
-              "info": "CSS 1. Selectores simples"
+              "info": "CSS 1. Selectores simples (id)"
+            },
+            {
+              "numero": "22",
+              "info": "CSS 1. Selectores simples (class)"
             }
           ]
         }
