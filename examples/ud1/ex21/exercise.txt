@@ -1,0 +1,1 @@
+Aplica un estilo CSS a un elemento HTML utilizando su identificaddor.

@@ -1,0 +1,1 @@
+Para aplicar un estilo CSS a un conjunto de elementos HTML a través de una clase espacífica escribiremos el caracter . seguido del nombre de la clase. 

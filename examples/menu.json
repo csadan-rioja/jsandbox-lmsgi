@@ -86,6 +86,10 @@
             {
               "numero": "20",
               "info": "HTML 1. Listas ordenadas"
+            },
+            {
+              "numero": "21",
+              "info": "CSS 1. Selectores simples"
             }
           ]
         }

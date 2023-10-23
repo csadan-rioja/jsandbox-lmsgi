@@ -1,0 +1,8 @@
+Una lista ordenada se declara utilizando la etiqueta <ol>. Cada elemento de la lista se declara con <li>. Los elementos de la lista se marcan con números por defecto. Pero se puede cambiar con la propiedad type, que puede tener los siguientes valores:
+
+1 para números 
+A para letras mayúsculas
+a para letras minúsculas
+I para números romanos en mayúsculas
+i para números romanos en minúsculas
+

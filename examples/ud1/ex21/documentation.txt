@@ -1,0 +1,1 @@
+Para aplicar un estilo a un ID específico debes escribir el caracter # seguido por el identificador del elemento.  

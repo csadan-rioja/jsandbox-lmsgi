@@ -1,0 +1,1 @@
+Aplica un estilo CSS a un conjunto de elementos HTML utilizando su clase.
