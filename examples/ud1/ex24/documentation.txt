@@ -1,0 +1,3 @@
+En CSS la propiedad font-size define el tamaño del texto. Sin embargo, es importante destacar que esta propiedad no la debemos utilizar para hacer que un parrafo parezca una cabecera. Para ello utilizaremos las etiquetas HTML oportunas. 
+
+Para definir el tamaño podremos utilizar medidas absolutas (por ejemplo, px, pt y pc) o medidas relativas (por ejemplo, em o %).

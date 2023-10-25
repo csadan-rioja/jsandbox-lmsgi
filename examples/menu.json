@@ -94,6 +94,38 @@
             {
               "numero": "22",
               "info": "CSS 1. Selectores simples (class)"
+            },
+            {
+              "numero": "23",
+              "info": "CSS 1. Font-family"
+            },
+            {
+              "numero": "24",
+              "info": "CSS 1. Font-size"
+            },
+            {
+              "numero": "25",
+              "info": "CSS 1. Font-weight"
+            },
+            {
+              "numero": "26",
+              "info": "CSS 1. Font-style"
+            },
+            {
+              "numero": "27",
+              "info": "CSS 1. Font-variant"
+            },
+            {
+              "numero": "28",
+              "info": "CSS 1. Word-spacing"
+            },
+            {
+              "numero": "29",
+              "info": "CSS 1. Letter-spacing"
+            },
+            {
+              "numero": "30",
+              "info": "CSS 1. Text-align"
             }
           ]
         }

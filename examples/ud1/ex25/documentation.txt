@@ -1,0 +1,7 @@
+En CSS la propiedad font-weight define como de grueso o delgados son los caracteres. Podremos darle los siguientes valores:
+
+normal - define caracters normales, por defecto. 
+bold - define los caracteres gruesos. 
+bolder - define los caracteres más gruesos. 
+lighter - define los caracteres delgados. 
+[100 - 900] - Siendo 400 igual que normal y 700 igual que bold, se puede definir el grueso utilizando números. 

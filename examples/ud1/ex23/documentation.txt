@@ -1,0 +1,11 @@
+En CSS utilizamos la propiedad font-family para especificar la fuente de un texto. Si el nombre de la fuente tiene más de una palabra se puede poner entre comillas dobles, por ejemplo, "Times New Roman". En la siguiente lista podeos ver los tipos de fuente más utilizados. 
+
+ Arial (sans-serif)
+ Verdana (sans-serif)
+ Tahoma (sans-serif)
+ Trebuchet MS (sans-serif)
+ Times New Roman (serif)
+ Georgia (serif)
+ Garamond (serif)
+ Courier New (monospace)
+ Brush Script MT (cursive)
